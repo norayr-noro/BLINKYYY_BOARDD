@@ -1,0 +1,16 @@
+,Price valued per unit and total price PER BOARD,,,,
+Item,URL,Price (per unit ),Quantity needed,Quantity to order (min on JLCPCB),Total
+The PCB,https://jlcpcb.com/,4,1,5,4
+Blinky board kit,-,10,1,1,10
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Subtotal (only parts),14,,,,
+Shipping and handling,21,,,,
+PCB,4,,,,
+,,,,,
+Total (with fees),25,,,,
+Total needed from stasis,0,,,,
