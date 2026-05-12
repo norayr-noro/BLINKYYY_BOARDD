@@ -36,9 +36,10 @@ Finishing off, you usually place the parts on the PCB and route it by placing tr
 
 ## Preview
 Here's the final look of the project:
-
-<img width="989" height="562" alt="PCB(3d)" src="https://github.com/user-attachments/assets/27c12ee5-75a2-4812-8068-c25ea6a933b5" />
-<img width="763" height="479" alt="PCB(2d)" src="https://github.com/user-attachments/assets/422d4a7a-4b6f-402f-93c2-82be0cdcd876" />
+(At the end, I added an extra IC to connect more LED's to make the spiral blinking look cooler and smoother)
+<img width="910" height="492" alt="schematic_photo(final)" src="https://github.com/user-attachments/assets/81c4cf2d-f5de-481e-a4c1-9400528e0bb6" />
+<img width="771" height="526" alt="PCB(2d)" src="https://github.com/user-attachments/assets/cc05fbfa-63d0-4b2d-9309-9071a16cf107" />
+<img width="1150" height="618" alt="PCB(3d)" src="https://github.com/user-attachments/assets/6a33650b-cafe-42f8-a1e8-01d194463ff0" />
 
 ## Credits
 Original guide and inspiration:
